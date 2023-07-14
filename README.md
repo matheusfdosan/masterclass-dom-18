@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="preview" src=".github/preview.jpg" width="100%">
+  <img alt="preview" src=".github/preview.png" width="100%">
 </p>
 
 ## 💻 JavaScript DOM
